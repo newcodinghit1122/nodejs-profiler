@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-profiler",
+    "version": "1.0.0",
+    "description": "Node.js 기반의 데이터 프로파일러 프로그램",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "express-fileupload": "^1.2.1",
+      "mongoose": "^5.10.9"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
